@@ -1,0 +1,24 @@
+{
+  "name": "ethereal-wisdom-screen",
+  "version": "1.0.0",
+  "description": "An ethereal wisdom screen for mystical words of wisdom.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "display",
+    "test",
+    "word",
+    "generator",
+    "quotes",
+    "style"
+  ],
+  "author": "MikeSoes1",
+  "license": "MIT",
+  "dependencies": {
+    "wisdom-whispers": "^1.0.0"
+  }
+}
