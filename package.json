@@ -1,9 +1,13 @@
 {
   "name": "ethereal-wisdom-screen",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "An ethereal wisdom screen for mystical words of wisdom.",
   "main": "index.js",
   "type": "module",
+  "homepage": "https://github.com/MikeSoes1/ethereal-wisdom-screen",
+  "repository": {
+    "url": "https://github.com/MikeSoes1/ethereal-wisdom-screen"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
